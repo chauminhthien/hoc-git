@@ -8,4 +8,12 @@ $ git commit -m "First commit on Github"
  
  git push origin master
  
+<<<<<<< HEAD
  scascasc
+=======
+test fecth
+>>>>>>> 0aec9a088d8600b61b301a6e84aa1a7f3347f2b2
+
+
+pull git -> may
+	git pull origin master
