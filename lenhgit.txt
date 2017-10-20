@@ -9,3 +9,14 @@ $ git commit -m "First commit on Github"
  git push origin master
  
  test
+ 
+ 
+ --------------------------
+ 
+ nhánh
+ 
+ $ git branch -b feature/apply_filter_for_students_list
+# make some changes
+$ git add .
+$ git commit -m "some messages"
+$ git push origin feature/apply_filter_for_students_list
